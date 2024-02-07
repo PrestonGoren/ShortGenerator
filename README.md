@@ -18,6 +18,9 @@ TODO
 python script.py "Your prompt here"
 ```
 
+"make a video about how the dolphen collective has been secretly taking over the world"
+
+
 ## Environment Variables
 
 TODO

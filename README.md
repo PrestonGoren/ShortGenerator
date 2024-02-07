@@ -30,4 +30,11 @@ To run this project, you will need to add the following environment variables to
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
+
+## TODO
+upload example videos
+installation instructions
+usage instructions
+diagram showing how everything connects
+

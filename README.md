@@ -51,3 +51,6 @@ diagram showing how everything connects
 
 calculate token usage/cost for each video
 
+
+more granular calculations for time taken (time taken for script, time taken for voiceovers, etc)
+

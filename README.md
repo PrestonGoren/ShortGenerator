@@ -36,9 +36,12 @@ To run this project, you will need to add the following environment variables to
 
 upload example videos
 
+
 installation instructions
 
+
 usage instructions
+
 
 diagram showing how everything connects
 

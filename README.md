@@ -23,7 +23,7 @@ pip install -r "requirements.txt"
 TODO
 
 ```python
-python script.py "Your prompt here"
+python3 script.py "Your prompt here"
 ```
 ### Example
 Here is an example output generated from the input "make a video about how the dolphin collective has been secretly taking over the world":

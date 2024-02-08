@@ -20,11 +20,12 @@ pip install -r "requirements.txt"
 
 ## Usage/Examples
 
-TODO
-
+In the project folder, run:
 ```python
 python3 script.py "Your prompt here"
 ```
+An "output" directory will be generated with your output.
+
 ### Example
 Here is an example output generated from the input "make a video about how the dolphin collective has been secretly taking over the world":
 

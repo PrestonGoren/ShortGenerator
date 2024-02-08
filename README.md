@@ -4,10 +4,18 @@ This project uses generative AI to create a short video from a single prompt.
 
 ## Installation
 
-TODO
-
+Clone the repository
 ```bash
-pip install -r requirements.txt
+git clone "https://github.com/PrestonGoren/ShortGenerator.git"
+```
+If you want to use a virtual environment (recommended) run
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+Install the required dependencies
+```bash
+pip install -r "requirements.txt"
 ```
 
 ## Usage/Examples

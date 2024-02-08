@@ -17,8 +17,14 @@ TODO
 ```python
 python script.py "Your prompt here"
 ```
+### Example
+Here is an example output generated from the input "make a video about how the dolphin collective has been secretly taking over the world":
 
-"make a video about how the dolphen collective has been secretly taking over the world"
+
+https://github.com/PrestonGoren/ShortGenerator/assets/80135054/cb6d8785-c29a-46a5-ad17-70772e04b3f2
+
+
+
 
 
 ## Environment Variables

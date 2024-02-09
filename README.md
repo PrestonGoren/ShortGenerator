@@ -54,7 +54,7 @@ installation instructions ✅
 usage instructions ✅
 
 
-diagram showing how everything connects
+diagram showing how everything connects ✅
 
 
 calculate token usage/cost for each video

@@ -17,6 +17,7 @@ Install the required dependencies
 ```bash
 pip install -r "requirements.txt"
 ```
+Navigate to the `.env` file and add your OpenAI key to the `OPENAI_API_KEY` field
 
 ## Usage/Examples
 
@@ -33,18 +34,6 @@ Here is an example output generated from the input "make a video about how the d
 https://github.com/PrestonGoren/ShortGenerator/assets/80135054/cb6d8785-c29a-46a5-ad17-70772e04b3f2
 
 
-
-
-
-## Environment Variables
-
-TODO
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`OPENAI_API_KEY`
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -52,13 +41,13 @@ To run this project, you will need to add the following environment variables to
 
 ## TODO
 
-upload example videos
+upload example generated videos ✅
 
 
-installation instructions
+installation instructions ✅
 
 
-usage instructions
+usage instructions ✅
 
 
 diagram showing how everything connects

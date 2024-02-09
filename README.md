@@ -2,6 +2,10 @@
 
 This project uses generative AI to create a short video from a single prompt.
 
+
+This diagram details the flow of information from your initial prompt to the resulting video:
+![mermaid-diagram-2024-02-09-143320](https://github.com/PrestonGoren/ShortGenerator/assets/80135054/d095bd05-76f4-4b69-8fae-be20e8b43d6f)
+
 ## Installation
 
 Clone the repository
